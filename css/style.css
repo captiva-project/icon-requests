@@ -16,7 +16,7 @@ body::before {
   left: 0;
   background: #8d5fd2;
   /* IE Fallback */
-  background: rgba(141,95,210,.2);
+  background: rgba(141,95,210,.5);
   width: 100%;
   height: 100%;
 }
